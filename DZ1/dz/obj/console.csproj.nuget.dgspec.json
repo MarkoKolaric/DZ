@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\dz\\console.csproj": {}
+    "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\dz\\console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\Kola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\ClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\Jotaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jotaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\dz\\console.csproj": {
+    "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\dz\\console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\dz\\console.csproj",
+        "projectUniqueName": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\dz\\console.csproj",
         "projectName": "console",
-        "projectPath": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\dz\\console.csproj",
-        "packagesPath": "C:\\Users\\Kola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\dz\\obj\\",
+        "projectPath": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\dz\\console.csproj",
+        "packagesPath": "C:\\Users\\Jotaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\dz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jotaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Kola\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Jotaro\\Desktop\\peirogi\\dz\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
