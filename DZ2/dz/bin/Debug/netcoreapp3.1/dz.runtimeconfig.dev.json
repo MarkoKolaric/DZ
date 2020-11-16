@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kola\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kola\\.nuget\\packages"
+    ]
+  }
+}
